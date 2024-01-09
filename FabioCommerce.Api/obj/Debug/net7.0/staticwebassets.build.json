@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N1TIrEyt+5bO886DSXgr/N0Lt0YlsvUlzIHJyUV/JDY=",
+  "Source": "FabioCommerce.Api",
+  "BasePath": "_content/FabioCommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

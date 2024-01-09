@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioCommerce.Api", "FabioCommerce.Api\FabioCommerce.Api.csproj", "{72240DC2-C731-4F14-B872-7E3534B5061E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioCommerce.Domain", "FabioCommerce.Domain\FabioCommerce.Domain.csproj", "{16AAE197-6CE0-4719-BA8A-BFCFE198DB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioCommerce.Shared", "FabioCommerce.Shared\FabioCommerce.Shared.csproj", "{25D209E8-AB81-4992-9D31-FDAA1060B9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioCommerce.Tests", "FabioCommerce.Tests\FabioCommerce.Tests.csproj", "{9F038BC3-3A61-4DBF-A56A-996BD826CC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioCommerce.Infra", "FabioCommerce.Infra\FabioCommerce.Infra.csproj", "{87DD6A1B-6205-4F4F-803B-AFBBEE8027DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72240DC2-C731-4F14-B872-7E3534B5061E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72240DC2-C731-4F14-B872-7E3534B5061E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72240DC2-C731-4F14-B872-7E3534B5061E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72240DC2-C731-4F14-B872-7E3534B5061E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AAE197-6CE0-4719-BA8A-BFCFE198DB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AAE197-6CE0-4719-BA8A-BFCFE198DB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AAE197-6CE0-4719-BA8A-BFCFE198DB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AAE197-6CE0-4719-BA8A-BFCFE198DB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D209E8-AB81-4992-9D31-FDAA1060B9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D209E8-AB81-4992-9D31-FDAA1060B9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D209E8-AB81-4992-9D31-FDAA1060B9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D209E8-AB81-4992-9D31-FDAA1060B9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F038BC3-3A61-4DBF-A56A-996BD826CC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F038BC3-3A61-4DBF-A56A-996BD826CC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F038BC3-3A61-4DBF-A56A-996BD826CC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F038BC3-3A61-4DBF-A56A-996BD826CC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DD6A1B-6205-4F4F-803B-AFBBEE8027DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DD6A1B-6205-4F4F-803B-AFBBEE8027DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DD6A1B-6205-4F4F-803B-AFBBEE8027DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DD6A1B-6205-4F4F-803B-AFBBEE8027DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

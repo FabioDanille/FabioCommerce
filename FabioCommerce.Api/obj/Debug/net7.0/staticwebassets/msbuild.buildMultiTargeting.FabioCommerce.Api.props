@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FabioCommerce.Api.props" />
+</Project>
