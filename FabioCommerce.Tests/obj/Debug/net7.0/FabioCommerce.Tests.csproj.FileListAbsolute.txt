@@ -97,3 +97,4 @@ C:\dev\FabioCommerce\FabioCommerce.Tests\obj\Debug\net7.0\refint\FabioCommerce.T
 C:\dev\FabioCommerce\FabioCommerce.Tests\obj\Debug\net7.0\FabioCommerce.Tests.pdb
 C:\dev\FabioCommerce\FabioCommerce.Tests\obj\Debug\net7.0\FabioCommerce.Tests.genruntimeconfig.cache
 C:\dev\FabioCommerce\FabioCommerce.Tests\obj\Debug\net7.0\ref\FabioCommerce.Tests.dll
+C:\dev\FabioCommerce\FabioCommerce.Tests\obj\Debug\net7.0\FabioCommerce.Tests.sourcelink.json

@@ -1,7 +1,6 @@
 C:\dev\FabioCommerce\FabioCommerce.Infra\bin\Debug\net7.0\FabioCommerce.Infra.deps.json
 C:\dev\FabioCommerce\FabioCommerce.Infra\bin\Debug\net7.0\FabioCommerce.Infra.dll
 C:\dev\FabioCommerce\FabioCommerce.Infra\bin\Debug\net7.0\FabioCommerce.Infra.pdb
-C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.csproj.AssemblyReference.cache
 C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.AssemblyInfoInputs.cache
 C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.dl
 C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\refint\FabioCommerce.Infra.dll
 C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.pdb
 C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\ref\FabioCommerce.Infra.dll
+C:\dev\FabioCommerce\FabioCommerce.Infra\obj\Debug\net7.0\FabioCommerce.Infra.sourcelink.json

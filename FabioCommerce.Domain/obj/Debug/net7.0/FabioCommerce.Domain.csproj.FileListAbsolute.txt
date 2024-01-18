@@ -1,7 +1,6 @@
 C:\dev\FabioCommerce\FabioCommerce.Domain\bin\Debug\net7.0\FabioCommerce.Domain.deps.json
 C:\dev\FabioCommerce\FabioCommerce.Domain\bin\Debug\net7.0\FabioCommerce.Domain.dll
 C:\dev\FabioCommerce\FabioCommerce.Domain\bin\Debug\net7.0\FabioCommerce.Domain.pdb
-C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.csproj.AssemblyReference.cache
 C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.AssemblyInfoInputs.cache
 C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.
 C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\refint\FabioCommerce.Domain.dll
 C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.pdb
 C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\ref\FabioCommerce.Domain.dll
+C:\dev\FabioCommerce\FabioCommerce.Domain\obj\Debug\net7.0\FabioCommerce.Domain.sourcelink.json
