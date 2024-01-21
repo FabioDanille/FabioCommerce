@@ -598,6 +598,16 @@
             "related": ".xml"
           }
         }
+      },
+      "FabioCommerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FabioCommerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FabioCommerce.Domain.dll": {}
+        }
       }
     }
   },
@@ -2292,10 +2302,16 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "FabioCommerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FabioCommerce.Domain/FabioCommerce.Domain.csproj",
+      "msbuildProject": "../FabioCommerce.Domain/FabioCommerce.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "FabioCommerce.Domain >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
@@ -2328,7 +2344,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dev\\FabioCommerce\\FabioCommerce.Domain\\FabioCommerce.Domain.csproj": {
+              "projectPath": "C:\\dev\\FabioCommerce\\FabioCommerce.Domain\\FabioCommerce.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
